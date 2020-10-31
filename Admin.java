@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner ;
 
 interface Administrator{
     void blockSpot(ParkingSpot parkingSpot);
